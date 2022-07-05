@@ -161,3 +161,6 @@ cython_debug/
 
 # Internal data folders
 */data/*
+
+# MLFlow metadata
+*/mlruns/*
