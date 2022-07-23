@@ -29,7 +29,7 @@ This allows version pinning and easy deterministic installation.
 >
 > pip-compile requirements.in
 
-### Main takeaways:
+### Main takeaways
 
 - Don't avoid dependency management
 - Always use virtual environments on your local computer
