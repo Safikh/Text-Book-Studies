@@ -69,4 +69,3 @@ There are five prerequisites for a modern GPU (NVIDIA) container.
 3. Host Machine: GPU Drivers
 4. Host Machine: NVidia Docker Toolkit
 5. Host Machine: Docker run executed with ```--gpus all```
-
